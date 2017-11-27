@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BiYanZu
+Comment=BiYanZu P2P Cryptocurrency
+Exec=biyanzu-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/biyanzu;
+Categories=Office;Finance;
+Name[en_US]=biyanzu-qt.desktop
